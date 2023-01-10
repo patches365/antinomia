@@ -5313,7 +5313,7 @@ $67C [$1F4F:4]: Initial Value = CLEAR:
 	Set at address CC/E539
 
 $67D [$1F4F:5]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Leo on WoR ship]
 
 $67E [$1F4F:6]: Initial Value = CLEAR:
 	NPC $10 on Map 189 ($0BD): (Kohlingen, outdoors (WoR / ending))
