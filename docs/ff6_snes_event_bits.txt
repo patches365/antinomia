@@ -223,13 +223,13 @@ Bit RAM  Description
 0A2 94:2 Unused? [Bartering event active]
 0A3 94:3 Left Shadow behind on the Floating Continent
 0A4 94:4 In the World of Ruin
-0A5 94:5 Unused?
+0A5 94:5 Unused? [Leo re-recruitment complete]
 0A6 94:6 Hides the party on map 10 (always remains clear?)
 0A7 94:7 Met Crimson Robber 1
 0A8 95:0 Met Crimson Robber 2
 0A9 95:1 Met Crimson Robber 3
 0AA 95:2 Met Crimson Robber 4
-0AB 95:3 Saw one of the Crimson Robbers leave the cafÅE
+0AB 95:3 Saw one of the Crimson Robbers leave the cafÅE
 0AC 95:4 Boarded the Crimson Robbers' ship
 0AD 95:5 Disables a music-related function in Figaro Cave
 0AE 95:6 Noise in Figaro Cave 1
