@@ -5169,7 +5169,7 @@ $668 [$1F4D:0]: Initial Value = SET:
 	Set at address CC/5A93
 
 $669 [$1F4D:1]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Use for visibility of music box]
 
 $66A [$1F4D:2]: Initial Value = CLEAR:
 	NPC $12 on Map 305 ($131): (Tzen, outdoors (WoR))
