@@ -31,5 +31,6 @@ NEW FEATURES
 - Brand new retranslation of much of the original script.  Woolsey was used as a base and his translation was kept for lines that were "close enough" or whose localization didn't detract from the original intent.  The remainder of the script has been relocalized and refreshed.
 - Spell, item, monster, and ability names updated to be consistent with modern naming schemes in the series, provided there were enough characters to fit the name (e.g., even though "Firaga" will fit in 6 letters, "Blizzaga" and "Thundaga" will not, so for consistency's sake, they have all remained "Fire 3", "Ice 3", and "Bolt 3").
 - Evasion glitch patched. The Goggles no longer do nothing.
+- Desperation attacks much easier to trigger
 - Several new pieces of music
 - New sidequest for additional stat gains
