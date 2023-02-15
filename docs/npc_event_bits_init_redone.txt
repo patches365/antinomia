@@ -5569,7 +5569,7 @@ $69C [$1F53:4]: Initial Value = CLEAR:
 	Set at address CC/2A99
 
 $69D [$1F53:5]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Fireball in Mobliz]
 
 $69E [$1F53:6]: Initial Value = CLEAR:
 	(Unused?)
