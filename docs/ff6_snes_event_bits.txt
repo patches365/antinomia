@@ -239,7 +239,7 @@ Bit RAM  Description
 0B2 96:2 Examined Cid's dead body
 0B3 96:3 Cid recovered (enables access to the cliffs)
 0B4 96:4 Cid succumbed (enables access to the cliffs)
-0B5 96:5 Unused?
+0B5 96:5 Unused? [Saw Leo fireplace scene]
 0B6 96:6 Got Ragnarok
 0B7 96:7 Unused?
 0B8 97:0 Got Cursed Shld
