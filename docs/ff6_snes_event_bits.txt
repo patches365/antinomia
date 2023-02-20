@@ -282,16 +282,16 @@ Bit RAM  Description
 0DD 9B:5 Unused?
 0DE 9B:6 Sets Figaro Castle ablaze
 0DF 9B:7 Unused?
-0E0 9C:0 Unused? [Played South Figaro record player]
-0E1 9C:1 Unused?
-0E2 9C:2 Unused?
-0E3 9C:3 Unused?
-0E4 9C:4 Unused?
-0E5 9C:5 Unused?
-0E6 9C:6 Unused?
-0E7 9C:7 Unused?
-0E8 9D:0 Unused?
-0E9 9D:1 Unused?
+0E0 9C:0 Unused? [Played South Figaro Pub record player]
+0E1 9C:1 Unused? [Played South Figaro Basement record player]
+0E2 9C:2 Unused? [Played Mobliz Relic Shop record player]
+0E3 9C:3 Unused? [Played Mobliz Soldier's House record player]
+0E4 9C:4 Unused? [Played Nikeah Pub record player]
+0E5 9C:5 Unused? [Played Jidoor Relic Shop record Player]
+0E6 9C:6 Unused? [Played Maranda Weapon Shop record player]
+0E7 9C:7 Unused? [Played Tzen Collapsing House record player]
+0E8 9D:0 Unused? [Played Albrook Pub record player]
+0E9 9D:1 Unused? [Played Thamasa Strago's House record player]
 0EA 9D:2 Unused?
 0EB 9D:3 Unused?
 0EC 9D:4 Unused?
