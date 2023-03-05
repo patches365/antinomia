@@ -241,7 +241,7 @@ Bit RAM  Description
 0B4 96:4 Cid succumbed (enables access to the cliffs)
 0B5 96:5 Unused? [Saw Leo fireplace scene]
 0B6 96:6 Got Ragnarok
-0B7 96:7 Unused?
+0B7 96:7 Unused? [Talked to Mog once in WoR]
 0B8 97:0 Got Cursed Shld
 0B9 97:1 Unused?
 0BA 97:2 Recruited Strago in the World of Ruin
@@ -298,21 +298,21 @@ Bit RAM  Description
 0ED 9D:5 Unused?
 0EE 9D:6 Unused?
 0EF 9D:7 Unused?
-0F0 9E:0 Unused?
-0F1 9E:1 Unused?
-0F2 9E:2 Unused?
-0F3 9E:3 Unused?
-0F4 9E:4 Unused?
-0F5 9E:5 Unused?
-0F6 9E:6 Unused?
-0F7 9E:7 Unused?
-0F8 9F:0 Unused?
-0F9 9F:1 Unused?
-0FA 9F:2 Unused?
-0FB 9F:3 Unused?
-0FC 9F:4 Unused?
-0FD 9F:5 Unused?
-0FE 9F:6 Unused?
+0F0 9E:0 Unused? [Took Terra to Cid's grave]
+0F1 9E:1 Unused? [Took Locke to Cid's grave]
+0F2 9E:2 Unused? [Took Cyan to Cid's grave]
+0F3 9E:3 Unused? [Took Shadow to Cid's grave]
+0F4 9E:4 Unused? [Took Edgar to Cid's grave]
+0F5 9E:5 Unused? [Took Sabin to Cid's grave]
+0F6 9E:6 Unused? [Received La Diva]
+0F7 9E:7 Unused? [Took Setzer to Cid's grave]
+0F8 9F:0 Unused? [Took Strago to Cid's grave]
+0F9 9F:1 Unused? [Took Relm to Cid's grave]
+0FA 9F:2 Unused? [Took Leo to Cid's grave]
+0FB 9F:3 Unused? [Took Gau to Cid's grave]
+0FC 9F:4 Unused? [Took Gogo to Cid's grave]
+0FD 9F:5 Unused? [Took Umaro to Cid's grave]
+0FE 9F:6 Unused? [Took Mog to Cid's grave]
 0FF 9F:7 Unused?
 100 A0:0 Edgar commented on Sabin's cabin
 101 A0:1 The cider deliveryman is heading toward the old man's house
