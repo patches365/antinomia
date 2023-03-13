@@ -243,9 +243,9 @@ Bit RAM  Description
 0B6 96:6 Got Ragnarok
 0B7 96:7 Unused? [Talked to Mog once in WoR]
 0B8 97:0 Got Cursed Shld
-0B9 97:1 Unused?
+0B9 97:1 Unused? [Talked to Cid's grave with Celes, La Diva sidequest acvite]
 0BA 97:2 Recruited Strago in the World of Ruin
-0BB 97:3 Unused?
+0BB 97:3 Unused? [La Diva sidequest complete]
 0BC 97:4 Defeated Guardian
 0BD 97:5 Defeated Inferno
 0BE 97:6 Terra and Katarin went missing

@@ -1350,7 +1350,7 @@ $3A7 [$1EF4:7]: Initial Value = CLEAR:
 	(Unused?) [Celes unconscious outside Mobliz]
 
 $3A8 [$1EF5:0]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Bandana/Magicite Shard in Mobliz]
 
 $3A9 [$1EF5:1]: Initial Value = CLEAR:
 	(Unused?)
