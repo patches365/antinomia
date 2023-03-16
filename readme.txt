@@ -34,6 +34,7 @@ NEW FEATURES
 - Desperation attacks much easier to trigger
 - Several new pieces of music
 - New sidequest for additional stat gains
+- New ultimate weapon sidequests
 
 ====================
 CREDITS

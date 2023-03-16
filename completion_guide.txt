@@ -23,7 +23,7 @@ II. EMPIRE IN SOUTH FIGARO
 - Have Leo talk to the kid at the bottom of the stairs who tells you only merchants may pass for an additional scene
 - Have Leo fight the guard in the Magitek Armor to get past him and go to Duncan's wife's house and talk to her for an additional scene
 - Use the menu glitch to try to phase through the guard blocking the exit at the far right of town for an easter egg. Also works during Locke's scenario later.
-- Leo can switch on the record player in the South Figaro pub. This is to hint at a later added event, though that event becomes available regardless of whether Leo plays the record player here.
+- Leo can switch on the record player in the South Figaro pub. This is to hint at a later added event, though that event becomes available later regardless of whether Leo plays the record player here.
 
 III. BANON'S SCENARIO
 - Go into the moogle cave for an additional scene. This scene is only available during Banon's scenario.
@@ -64,7 +64,7 @@ I. MOBLIZ
 - The map has been modified so that Mobliz is the only place Terra can go to start. The hidden chocobo stable in the forest south of Mobliz is still there, but it's empty to begin with.
 
 	Ia. RAT EVENT MECHANICS
-	- Unlike the original fish event, there is no invisible timer running for this event because the timer expiring once per second doesn't play nice with maps that can scroll (you may notice that the Solitary Island map is static). Instead, every time Terra talks to Katarin, a set number of "points" are subtracted from the score.
+	- Unlike the original fish event, there is no invisible timer running for this event because the timer expiring and resetting once per second doesn't play nice with maps that can scroll (you may notice that the Solitary Island map is static). Instead, every time Terra talks to Katarin, a set number of "points" are subtracted from the score.
 	- Talking to Katarin resets the tasks and calculates the score only once per entry into the room.
 	- The following actions, when available, will increase your score:
 		* Killing every rat in the field
@@ -130,8 +130,8 @@ V. SOLITARY ISLAND SIDEQUEST - LA DIVA
 - Taking Celes back to the Solitary Island and interacting with Cid's grave prompts a flashback to what happened to Celes.
 - Celes receives consolation from different characters depending on who has been recruited (regardless of who was in the active party with her. They will appear if they weren't)
 	* If Locke has been recruited, he will console her
-	* Else, if Leo has been recruited, he will console her
-	* Else, if neither has been recruited, Terra will console her (as she is mandatory to have at this point)
+	* Else, if Leo has been recruited but not Locke, Leo will console her
+	* Else, if neither has been recruited, Terra will console her. Additionally, Terra has two alternate consolation scenes depending on the outcome of her own opening event in Mobliz.
 - Celes vows on Cid's grave to make good on her promise to bring her friends to meet him. You must, cumulatively, bring every possible party member (including Mog, Umaro, and Gogo) to Cid's grave with Celes in the party to have her introduce them. 14 characters in total, plus Celes.  You can bring them in groups and she will introduce the ones one-by-one who haven't had their introductions yet, so this can be completed in a minimum of 5 trips.
 - Once all 14 characters have been brought to the grave, Cid's ghost will appear and grant the legendary weapon "La Diva", which replaces Illumina.
 - If you left Leo behind on the Floating Continent, this event is impossible to complete as you can't bring him to the island.
