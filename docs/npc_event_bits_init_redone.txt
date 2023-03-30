@@ -5572,10 +5572,10 @@ $69D [$1F53:5]: Initial Value = CLEAR:
 	(Unused?) [Fireball in Mobliz]
 
 $69E [$1F53:6]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Cid's Ghost]
 
 $69F [$1F53:7]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Cid's Ghost sparkles]
 
 $6A0 [$1F54:0]: Initial Value = SET:
 	NPC $12 on Map 408 ($198): (Ancient Castle, library / basement)
