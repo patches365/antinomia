@@ -2383,7 +2383,7 @@ $48C [$1F11:4]: Initial Value = CLEAR:
 	NPC $24 on Map 007 ($007): (Blackjack, below decks, all rooms except Celes' prison)
 
 $48D [$1F11:5]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Leo in item shop during Gau scene]
 
 $48E [$1F11:6]: Initial Value = CLEAR:
 	NPC $10 on Map 131 ($083): (Gau's father's house, outdoors (WoR))
@@ -2438,7 +2438,7 @@ $497 [$1F12:7]: Initial Value = CLEAR:
 	Cleared at address CB/0080
 
 $498 [$1F13:0]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Leo in inn during Gau scene]
 
 $499 [$1F13:1]: Initial Value = CLEAR:
 	NPC $11 on Map 201 ($0C9): (Jidoor, item shop (always))

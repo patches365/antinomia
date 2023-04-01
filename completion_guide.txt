@@ -36,8 +36,8 @@ V. ASSAULT ON NARSHE
 - Each character now says something when you talk to them to switch them out before the battle. These lines were actually always there, but suppressed.
 
 VI. HEADING TO KOHLINGEN
-- Available starting now and through the end of the game, taking Cyan in the party when moving Figaro Castle prompts a scene. There is a unique event for every possible party member, plus a separate unique event if Cyan is alone. This scene can only be triggered once.
-- Available starting now and through the end of the World of Balance, take Gau to the crazy coliseum man's house north of Kohlingen for a scene.
+- Available starting when you can first choose your party and through the end of the game, taking Cyan in the party when moving Figaro Castle prompts a scene. There is a unique reaction for every possible party member, plus a separate unique event if Cyan is alone. This scene can only be triggered once.
+- Available starting when you can first choose your party through the end of the World of Balance, take Gau to the crazy coliseum man's house north of Kohlingen for a scene.
 
 VII. MOG RECRUITMENT
 - Mog is now a guest character who can be recruited if you have an open slot in your party and talk to him in the Narshe caves.  He can still learn his dances, but only in the World of Balance. In the World of Ruin, he's still recruitable, but is permanently equipped with Molulu's Charm and therefore can only ever fight in scripted battles. Mog will leave the party and return to Narshe any time the party is changed.
@@ -68,15 +68,15 @@ I. MOBLIZ
 	- Talking to Katarin resets the tasks and calculates the score only once per entry into the room.
 	- The following actions, when available, will increase your score:
 		* Killing every rat in the field
-		* Bringing back a good or great rat (discard the bad ones)
+		* Bringing back a good or great rat (you can discard the bad ones to still get the "kill all rats" bonus without hurting your rat quality score)
 		* Healing the sick child
 		* Lighting the fire
 	- The following actions will decrease your score:
 		* Leaving rats in the field
 		* Bringing back a bad rat
-		* Not healing the child if he's sick
-		* Not lighting the fire if it's out
-- Two different completion scenes are available depending on whether or not Terra was successful in her tasks.  If Terra fails, the child that was sick is missing from all later scenes for the rest of the game.
+		* Not healing the child if he's sick (he will remain sick until you heal him and your score will be decreased each round you don't)
+		* Not lighting the fire if it's out (it will remain out until you light it and your score will be decreased each round you don't)
+- Two different completion scenes are available depending on whether or not Terra was successful in her tasks.  If Terra fails, the child that was sick is missing from all later scenes for the rest of the game.  It also affects some dialogue later.
 
 II. LEO RE-RECRUITMENT
 - It is advisable you do this event before recruiting Sabin.
@@ -102,11 +102,12 @@ II. LEO RE-RECRUITMENT
 - If you leave town during the barter event and fly to Mobliz with the airship, there's a quick scene if you try to enter town without Leo
 - Once you have the Baby Clothes, Rations, and Toy Box, go back to the dock and talk to Leo. Terra needs to be in your party.
 - When you land at Mobliz, technically you can walk elsewhere, however since the airship is still at Albrook for now, you have no way to get back to it and eventually have to proceed to Mobliz.
+- Go down into the basement to initiate the next portion of the event.
 - You will be able to rename Leo during this event whether you waited for him at the Floating Continent or not
 - After the rename screen, if you waited for Leo at the Floating Continent, he will join you as a full party member and you can finally steal his gear. If you didn't wait for him, he will stay behind in Mobliz.
-- If Leo stays behind in Mobliz, if you return to the house there is an additional scene with Leo that plays once.
+- If Leo stays behind in Mobliz, if you return to the house and go into the underground room with the bed and fireplace, there is an additional scene with Leo that plays once.
 - If Leo joins the party, he comes pre-loaded with every white magic spell that could have been learned in the World of Balance.
-- You gain access to the Record Player sidequest either way
+- You gain access to the Record Player sidequest whether Leo joins you or not.
 
 III. RECORD PLAYER SIDEQUEST - IL DIVO
 - There are 10 record players in the World of Ruin that will play music from FF4 or FF5 and grant every character in the active party a permanent stat bonus. Finding all 10 record players additionally unlocks the legendary weapon "Il Divo", which replaces Ragnarok.
@@ -131,7 +132,14 @@ V. SOLITARY ISLAND SIDEQUEST - LA DIVA
 - Celes receives consolation from different characters depending on who has been recruited (regardless of who was in the active party with her. They will appear if they weren't)
 	* If Locke has been recruited, he will console her
 	* Else, if Leo has been recruited but not Locke, Leo will console her
-	* Else, if neither has been recruited, Terra will console her. Additionally, Terra has two alternate consolation scenes depending on the outcome of her own opening event in Mobliz.
+	* Else, if neither has been recruited, Terra will console her. Additionally, Terra has two alternate consolation scenes depending on whether the child in Mobliz lived or died.
 - Celes vows on Cid's grave to make good on her promise to bring her friends to meet him. You must, cumulatively, bring every possible party member (including Mog, Umaro, and Gogo) to Cid's grave with Celes in the party to have her introduce them. 14 characters in total, plus Celes.  You can bring them in groups and she will introduce the ones one-by-one who haven't had their introductions yet, so this can be completed in a minimum of 5 trips.
 - Once all 14 characters have been brought to the grave, Cid's ghost will appear and grant the legendary weapon "La Diva", which replaces Illumina.
 - If you left Leo behind on the Floating Continent, this event is impossible to complete as you can't bring him to the island.
+
+VI. GAU DRESS-UP EVENT
+- Leo has been added to this event with a new line if he's been recruited (but not in the active party) when you meet Gau's father.  Just like in the vanilla version, you need to take a party of Sabin, Gau, Locke, and Edgar to meet Gau's father to get the entire scene.
+
+VII. ENDING SCENES
+- Leo has three different ending scenes.  One, the default one with the portrait if his reunion event was never completed.  Two, if his reunion event was completed but he was left behind in Mobliz.  And three, if he had joined the party.
+- Several other ending sequences besides Leo's run differently if he joined the party.
