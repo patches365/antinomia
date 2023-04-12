@@ -3404,7 +3404,7 @@ $540 [$1F28:0]: Initial Value = CLEAR:
 	Cleared at address CB/8C47
 
 $541 [$1F28:1]: Initial Value = SET:
-	(Unused?)
+	(Unused?) [Banon in coliseum]
 
 $542 [$1F28:2]: Initial Value = SET:
 	NPC $10 on Map 332 ($14C): (Albrook, docks / Magitek ship at sea (always))

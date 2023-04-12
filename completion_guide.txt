@@ -137,9 +137,12 @@ V. SOLITARY ISLAND SIDEQUEST - LA DIVA
 - Once all 14 characters have been brought to the grave, Cid's ghost will appear and grant the legendary weapon "La Diva", which replaces Illumina.
 - If you left Leo behind on the Floating Continent, this event is impossible to complete as you can't bring him to the island.
 
-VI. GAU DRESS-UP EVENT
+VI. BANON'S FATE
+- Banon survived the end of the world and is in the Colosseum in the left-hand room. If you talk to him, he will eventually decide to come with you, but only as an airship NPC who heals the party.
+
+VII. GAU DRESS-UP EVENT
 - Leo has been added to this event with a new line if he's been recruited (but not in the active party) when you meet Gau's father.  Just like in the vanilla version, you need to take a party of Sabin, Gau, Locke, and Edgar to meet Gau's father to get the entire scene.
 
-VII. ENDING SCENES
+VIII. ENDING SCENES
 - Leo has three different ending scenes.  One, the default one with the portrait if his reunion event was never completed.  Two, if his reunion event was completed but he was left behind in Mobliz.  And three, if he had joined the party.
 - Several other ending sequences besides Leo's run differently if he joined the party.
