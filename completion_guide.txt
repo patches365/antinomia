@@ -123,11 +123,9 @@ III. RECORD PLAYER SIDEQUEST - IL DIVO
 	9. Thamasa - Strago's House (Magic + 5) "Library of the Ancients" from FF5
 	10. Tzen - Collapsing House (Speed + 5) "Hurry! Hurry!" from FF5
 - The record player in the Tzen collapsing house is missable as you can't get back to it once that event is complete. Also, the record players won't activate until after completing the Leo event, therefore the only way to get all 10 is to finish the Leo event before getting Sabin.
+- Il Divo will reward with itself if bet at the Collosseum.
 
-IV. SABIN RE-RECRUITMENT
-- There is an additional scene if you have Edgar in the party when re-recruiting Sabin.
-
-V. SOLITARY ISLAND SIDEQUEST - LA DIVA
+IV. SOLITARY ISLAND SIDEQUEST - LA DIVA
 - Taking Celes back to the Solitary Island and interacting with Cid's grave prompts a flashback to what happened to Celes.
 - Celes receives consolation from different characters depending on who has been recruited (regardless of who was in the active party with her. They will appear if they weren't)
 	* If Locke has been recruited, he will console her
@@ -136,6 +134,10 @@ V. SOLITARY ISLAND SIDEQUEST - LA DIVA
 - Celes vows on Cid's grave to make good on her promise to bring her friends to meet him. You must, cumulatively, bring every possible party member (including Mog, Umaro, and Gogo) to Cid's grave with Celes in the party to have her introduce them. 14 characters in total, plus Celes.  You can bring them in groups and she will introduce the ones one-by-one who haven't had their introductions yet, so this can be completed in a minimum of 5 trips.
 - Once all 14 characters have been brought to the grave, Cid's ghost will appear and grant the legendary weapon "La Diva", which replaces Illumina.
 - If you left Leo behind on the Floating Continent, this event is impossible to complete as you can't bring him to the island.
+- La Diva will reward with itself if bet at the Collosseum.
+
+V. SABIN RE-RECRUITMENT
+- There is an additional scene if you have Edgar in the party when re-recruiting Sabin.
 
 VI. BANON'S FATE
 - Banon survived the end of the world and is in the Colosseum in the left-hand room. If you talk to him, he will eventually decide to come with you, but only as an airship NPC who heals the party.

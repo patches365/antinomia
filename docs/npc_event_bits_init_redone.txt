@@ -3497,7 +3497,7 @@ $54C [$1F29:4]: Initial Value = SET:
 	Cleared at address CB/79CB
 
 $54D [$1F29:5]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Banon on airship]
 
 $54E [$1F29:6]: Initial Value = CLEAR:
 	(Unused?)
