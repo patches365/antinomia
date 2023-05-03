@@ -1,4 +1,4 @@
-Antinomia: Final Fantasy VI - v1.0.0 - Fast Moon
+Antinomia: Final Fantasy VI - v1.0 - Fast Moon
 
 ======================
 BACKGROUND
@@ -8,7 +8,7 @@ Antinomia (n.) - Two principles equally valid but diametrically opposed.
 
 The intent of this hack is to elevate General Leo to a deuteragonist role and periodically shift the focus from the main party to him to explore the events on the Imperial side in parallel with the main casts' actions (kind of like what FF8 did with Laguna).  The overall story progression and mechanics remain mostly the same, but utilize an expanded ROM and dialogue bank for dozens of new cutscenes and events to expand upon what's already there, for all characters, not just Leo.
 
-This is first and foremost a story hack rather than a gameplay hack.  There are a few new boss fights and some very minor adjustments to battle mechanics, as well as a few events that utilize mechanics not present in the original game.  But expanding on the world and characters was my goal going into this rather than changing the manner in which the game is played.
+This is first and foremost a story hack rather than a gameplay hack.  There are a few new boss fights and some very minor adjustments to battle mechanics, as well as a few events that utilize mechanics not present in the original game.  But expanding on the world and characters was my goal going into this rather than changing the manner in which the game is played. As such, no characters have been added, replaced, or removed, with the exception of Siegfried, since he served no purpose in the original game and I wanted to utilize his sprite memory for something else.  So if you're a die-hard Siegfried fan, this hack is not for you.
 
 ======================
 INSTALLATION
@@ -40,6 +40,30 @@ NEW FEATURES
 - Several new pieces of music
 - New sidequest for additional stat gains
 - New ultimate weapon sidequests
+
+====================
+CHANGE LOG
+====================
+
+----
+v1.0 - Alpha Test
+----
+Bugfixes
+- Opening dialogue with Biggs and Wedge was not auto-advancing
+- Event in Leo's South Figaro scenario was warping focus back to the Returner's Hideout
+- Shadow permanent recruitment event was triggering prematurely
+- Fixed Interceptor's walk speed during Shadow recruitment event
+- Some children's dialogue branches had been erased during Terra's WoR event
+- Fixed Leo's NPC sprite appearing when it wasn't supposed to
+- Fixed Celes facing the wrong direction during Nikeah event
+- Fixed character walk speed during Celes Solitary Island event
+- Text formatting on multiple-choice dialogue boxes fixed
+- Text formatting on centered text dialogue boxes fixed
+- "SwdTech" changed to "Bushido" in the menus to match the battle command
+
+Known Bugs
+- Due to being moved to the Guest slot, Mog no longer has a riding sprite, so making him the party lead and putting him on a chocobo or Magitek armor (Cyan's dream) will cause visual glitches. I don't have a way to fix this as the Guest slot has no sprite entry for riding (this issue already existed with Banon in vanilla).
+- Some of the character or camera movement speeds are inconsistent in a few cutscenes. May fix this in a later release.
 
 ====================
 CREDITS
