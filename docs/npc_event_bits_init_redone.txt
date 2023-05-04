@@ -1353,10 +1353,10 @@ $3A8 [$1EF5:0]: Initial Value = CLEAR:
 	(Unused?) [Bandana/Magicite Shard in Mobliz]
 
 $3A9 [$1EF5:1]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Wolves in Narshe]
 
 $3AA [$1EF5:2]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) 
 
 $3AB [$1EF5:3]: Initial Value = CLEAR:
 	(Unused?)
@@ -2104,7 +2104,7 @@ $454 [$1F0A:4]: Initial Value = SET:
 	(Unused?)
 
 $455 [$1F0A:5]: Initial Value = CLEAR:
-	(Unused?)
+	(Unused?) [Banon, Arvis, Interceptor visible in Vector]
 
 $456 [$1F0A:6]: Initial Value = SET:
 	NPC $10 on Map 007 ($007): (Blackjack, below decks, all rooms except Celes' prison)
@@ -2205,7 +2205,7 @@ $46B [$1F0D:3]: Initial Value = SET:
 	(Unused?) [Yura battle]
 
 $46C [$1F0D:4]: Initial Value = SET:
-	(Unused?) [Banon, Arvis, Interceptor visible in Vector]
+	(Unused?) 
 
 $46D [$1F0D:5]: Initial Value = SET:
 	(Unused?) [Shadow is on airship at end of world]
