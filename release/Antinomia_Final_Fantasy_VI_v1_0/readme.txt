@@ -6,17 +6,20 @@ BACKGROUND
 
 Antinomia (n.) - Two principles equally valid but diametrically opposed.
 
-The intent of this hack is to elevate General Leo to a deuteragonist role and periodically shift the narrative focus from the main party to him, in order to explore the events on the Imperial side in parallel with the main casts' actions (kind of like what FF8 did with Laguna).  The overall story progression and mechanics remain mostly the same, but utilize an expanded ROM and dialogue bank for dozens of new cutscenes and events to expand upon what's already there, for all characters, not just Leo.
+The intent of this hack is to elevate General Leo to a deuteragonist role and periodically shift the narrative focus from the main party to him, in order to explore the events on the Imperial side in parallel with the main casts' actions (kind of like what FF8 did with Laguna).  The narrative split continues until Leo and the Returners' stories intersect, at which point more substantial changes occur, such as Leo surviving and eventually being able to join the party as a permanent member, and the World of Ruin's story progression being retooled.  The overall story and mechanics remain mostly the same, but utilize an expanded ROM and dialogue bank for dozens of new cutscenes and events to expand upon what's already there, for all characters, not just Leo.
 
-This is first and foremost a story hack rather than a gameplay hack.  There are a few new boss fights and some minor adjustments to battle mechanics, as well as a few events that utilize mechanics not present in the original game.  But expanding on the world and characters was my goal going into this rather than changing the manner in which the game is played. As such, no characters have been added, replaced, or removed, with the exception of Siegfried, since he served no purpose in the original game and I wanted to utilize his sprite memory for something else.  So if you're a die-hard Siegfried fan, this hack is not for you.
+This is first and foremost a story hack rather than a gameplay hack.  Not to "change" the story, so much as tell it from a different set of eyes, and to give my favorite character a chance to participate in that story more than he did originally.  There are a few new boss fights and some minor adjustments to battle mechanics, as well as a few events that utilize mechanics not present in the original game.  But expanding on the original world, characters, and themes while still remaining loyal to them was my goal going into this rather than changing the manner in which the game is played. As such, no characters have been added, replaced, removed, or significantly altered, with the exception of Siegfried, since he served no purpose in the original game and I wanted to utilize his sprite memory for something else, so he no longer exists.  So if you're a die-hard Siegfried fan, this hack is not for you.
+
+FF6Hacking.com thread: https://www.ff6hacking.com/forums/thread-4047.html
 
 ======================
 INSTALLATION
 ======================
 
 - Base ROM: Final Fantasy III (U) (V1.0).  You are responsible for finding this yourself.
-- Use a tool such as Lunar IPS or SNEStuff to apply the IPS patch to the original ROM.  This IPS file assumes an unheadered, version 1.0 ROM.
+- Use a tool such as Lunar IPS or SNEStuff to apply the IPS patch to the original ROM.
 - Alternatively, place the original base ROM and the IPS file in the same folder and name them both the same thing: i.e, "Antinomia_Final_Fantasy_VI.ips" and "Antinomia_Final_Fantasy_VI.smc".  Many emulators such as SNES9x will automatically combine the files when the base ROM is loaded.
+- If you don't know whether your base ROM is headered or unheadered, the file size of an unheadered ROM is 3072KB, while a headered is 3073KB.  Alternatively, if you open the ROM in a hex editor, if it's headered you'll see a bunch of 00's for the first 0x200 addresses.
 - You'll probably get a "bad checksum" error when loading the patched ROM, which is typical with patches, but take note of the 8-digit CRC32 the emulator provides and compare it to the one provided in the change log below to ensure that everything merged as expected.
 - Definitely not compatible with any patches that alter game dialogue due to this hack using custom dialogue addressing.
 - Your mileage may vary on patches that alter game mechanics, depending on what memory was altered.

@@ -4,24 +4,24 @@
 [Section: Town Dialog]
 
 [caption #0]
-Biggs: So that's the town? <E$18><OP$12><EOP>
-Wedge: Hard to believe an Esper's been found frozen there, 1000 years after the War of the Magi_ <E$18><OP$12>
+Biggs: So that's the town? <D$18><OP$12><EOP>
+Wedge: Hard to believe an Esper's been found frozen there, 1000 years after the War of the Magi_ <D$18><OP$12>
 
 [caption #1]
 Biggs: Think it's just another hoax?
-Wedge: Maybe_ <E$18><OP$12><EOP>
-But if they've sent HER along with us, this might be the real deal. <E$18><OP$12>
+Wedge: Maybe_ <D$18><OP$12><EOP>
+But if they've sent HER along with us, this might be the real deal. <D$18><OP$12>
 
 [caption #2]
-Biggs: This woman who was born with magical powers_ <E$18><OP$12><EOP>
-I heard she fried 50 of our Magitek Armored soldiers in under 3 minutes. <E$18><OP$12>
+Biggs: This woman who was born with magical powers_ <D$18><OP$12><EOP>
+I heard she fried 50 of our Magitek Armored soldiers in under 3 minutes. <D$18><OP$12>
 
 [caption #3]
-Wedge: Not to worry. The Slave Crown on her head robs her of all conscious thought. She'll follow orders. <E$18><OP$12>
+Wedge: Not to worry. The Slave Crown on her head robs her of all conscious thought. She'll follow orders. <D$18><OP$12>
 
 [caption #4]
 Wedge: We'll approach from the east.
-Move out! <E$0C><OP$12>
+Move out! <D$0C><OP$12>
 
 [caption #5]
  Long ago, the War of the Magi
@@ -692,12 +692,12 @@ Zzz_zzz_
 
 [caption #173]
 There's a clock key in his pocket_
-<C>(Take it.)
-<C>(Stealing is wrong.)
+<C> (Take it.)
+<C> (Stealing is wrong.)
 
 [caption #174]
-<C>(Wind the clock?)
-<C>(Leave it.)
+<C> (Wind the clock?)
+<C> (Leave it.)
 
 [caption #175]
 An old clock_
@@ -808,8 +808,8 @@ Figaro castle turned on the Empire?!<EOP>
 Aw man, I don't want to get dragged into the war, too.
 
 [caption #204]
-Oh, that's just great,
-we've made an enemy of the Empire now_
+If we make the Empire mad,
+they'll attack us, too!
 
 [caption #205]
 This town's defenses are solid!
@@ -885,9 +885,9 @@ You may proceed.
 
 [caption #223]
 The password is_
-<C>[Rose bud]
-<C>[Courage]
-<C>[Failure]
+<C> [Rose bud]
+<C> [Courage]
+<C> [Failure]
 
 [caption #224]
 You're an Imperial spy!
@@ -990,7 +990,7 @@ Vargas: Who cares?!
 <A0>: It was you, wasn't it? The student who killed Master Duncan and fled.
 
 [caption #251]
-Vargas: Hmph, it's not like the likes of you could take me in.<EOP>
+Vargas: Hmph, it's not like the likes of you could catch me.<EOP>
 You're going to rue the day you ran into me!!
 
 [caption #252]
@@ -1618,8 +1618,8 @@ Rascals!
 Knock it off!
 
 [caption #411]
-<C>(Take off the disguise?)
-<C>(But I like these clothes.)
+<C> (Take off the disguise?)
+<C> (But I like these clothes.)
 
 [caption #412]
 Lower ranking soldiers are weak but like to brawl.<EOP>
@@ -2052,7 +2052,8 @@ Leo: Right. I'm counting on you.
 
 [caption #507]
 <A5>: So that's General Leo_
-How did an upstanding guy like that end up on the side of the Empire_? 
+He could be my friend_ <D>
+if he weren't my enemy_
 
 [caption #508]
 That was too close_!
@@ -2636,8 +2637,8 @@ Can't leave the train now!
 
 [caption #651]
 Waiter: Care for something?
-<C>(Yes, and keep it coming!)
-<C>(No, I'm good)
+<C> (Yes, and keep it coming!)
+<C> (No, I'm good)
 
 [caption #652]
 <A5>: Food! Food!
@@ -2675,9 +2676,9 @@ Conductor: How to stop the train? Just poke around the engine room, you'll figur
 [caption #661]
 Conductor: I am the conductor of this train. What business have you here?<EOP>
 Hmmm_
-<C>(Tell us about the train.)
-<C>(How do we stop it?)
-<C>(Leave us in peace.)
+<C> (Tell us about the train.)
+<C> (How do we stop it?)
+<C> (Leave us in peace.)
 
 [caption #662]
 Conductor: This train ferries
@@ -2883,8 +2884,8 @@ Look out!
 <A5>: What is it?
 <A2>: Seems to want to come with us.<EOP>
 Bring it along?
-<C>(Sure)
-<C>(No way)
+<C> (Sure)
+<C> (No way)
 
 [caption #716]
 <A5>: But_
@@ -2901,8 +2902,8 @@ Guess we're on our own now_
 [caption #719]
 Howdy, folks. I have some
 great, value-priced items!
-<C>(Shop)
-<C>(Don't shop)
+<C> (Shop)
+<C> (Don't shop)
 
 [caption #720]
 <A5>: I_it's moving!
@@ -2977,8 +2978,8 @@ It looks like you can handle things from here.
 
 [caption #740]
 Jump?
-<C>(Why not?)
-<C>(You crazy?)
+<C> (Why not?)
+<C> (You crazy?)
 
 [caption #741]
 Draped in monster hides, eyes shining with intelligence. A youth surviving against all odds_
@@ -3050,7 +3051,7 @@ I send things all over the world.
 The entrance to the Serpent Trench is south of Crescent Mountain.
 
 [caption #761]
-Wes: I'm a Marandan soldier, but the Empire invaded and conscripted us into their army.<EOP>
+I'm a Marandan soldier, but the Empire invaded and conscripted us into their army.<EOP>
 I didn't have any choice but to fight for them.<EOP>
 I was sent to Doma to serve under General Leo. He's a decent man for an Imperial,<EOP>
 but that didn't change the fact that he was still my captor.<EOP>
@@ -3061,7 +3062,6 @@ There's a letter on the desk there.
 Could you please bring it here?
 
 [caption #762]
-Dear Wes,
 The number of Imperial troops marching the Marandan streets has increased,<EOP>
 but otherwise I'm doing alright.<EOP>
 Flowers are blooming in the garden, telling me spring is here.<EOP>
@@ -3123,15 +3123,15 @@ For 500 GP you can send a book.
 <C> (Forget it)
 
 [caption #775]
-I got a letter from Wes!
+I got a letter from my boyfriend!
 He's all right! I'm so glad_
 
 [caption #776]
-Wes sent me a record!
+My boyfriend sent me a record!
 I'm so happy!
 
 [caption #777]
-Wes sent some Potions for my mother!
+My boyfriend sent some Potions for my mother!
 He's so kind!
 
 [caption #778]
@@ -4728,6 +4728,7 @@ I'm a GENERAL, not some opera floozy!
 Mii_ <D>Mii_ <D>
 Do, re, mi_
 Faa_hack, cough_<EOP>
+
 Maa_ <D>rii <D>aaaa
 
 [caption #1184]
@@ -4842,8 +4843,8 @@ But she never stopped yearning for Draco_ <E$10><OP$12>
 
 [caption #1208]
 The next line is_?
-   <C>(Oh my hero_)
-   <C>(Alas, Draco_)<D$11>
+   <C> (Oh my hero_)
+   <C> (Alas, Draco_)<D$11><OP$12>
 
 [caption #1209]
 & Oh <E$03>my <E$04>hero! <E$09>
@@ -4852,8 +4853,8 @@ The next line is_?
 & Though promises of <E$0D>
    perennial love <E$0C><OP$12><EOP>
 & Yet sing here in my heart & <E$08><OP$12>
-   <C>(I must die now_)
-   <C>(I'm the darkness_) <D$0E>
+   <C> (I must die now_)
+   <C> (I'm the darkness_) <D$0E><OP$12>
 
 [caption #1210]
 & Alas, Draco!
@@ -4871,8 +4872,8 @@ Something's wrong_eh?
 & Through hours of despair, <E$0A>
    I offer this prayer <E$0C><OP$12><EOP>
 & to you, my evening star & <E$08><OP$12>
-   <C>(Must my_)
-   <C>(Prince Ralse_)<D$0A>
+   <C> (Must my_)
+   <C> (Prince Ralse_)<D$0A><OP$12>
 
 [caption #1213]
 & I must die now_wait, what? <E$10><OP$12>
@@ -5297,8 +5298,8 @@ Change party members?
    Only 3 members, please.
 
 [caption #1321]
-<C>(Lift-off)
-<C>(Not just yet)
+<C> (Lift-off)
+<C> (Not just yet)
 
 [caption #1322]
 <A1>: Let's not overstay our visit. We're outta here on the double!
@@ -5715,8 +5716,8 @@ I was raised in the Espers' world.
 Maduin: Hello...?
 Hang in there...<EOP>
 What should I do?
-<C>(Take her back with you?)
-<C>(Leave her here?)
+<C> (Take her back with you?)
+<C> (Leave her here?)
 
 [caption #1425]
 She's pretty weak.
@@ -6921,7 +6922,7 @@ This is the end_
 Relics give your party members a variety of abilities.
 For example_<EOP>
 [Sprint Shoes] double your speed.
-[True Knight] lets you shield others during battle.<EOP>
+[Knights'Code] lets you shield others during battle.<EOP>
 [Dragoon Boots] add the [Jump] command to your battle list.<EOP>
 [Gauntlet] allows you to hold a sword with both hands.
 Use the Main Menu to equip up to 2 relics per person.
@@ -6936,7 +6937,7 @@ Though any GP, treasures, etc. you found will have to be found again, your Level
 You can save a game anywhere on the world map.
 
 [caption #1748]
-<D$60>
+<D$60><OP$12>
 
 [caption #1749]
 Emperor Gestahl commissioned a painting from me, but_
@@ -7420,7 +7421,7 @@ Cid: Wow, what a ship!
 
 [caption #1875]
 Your behavior at the banquet was impeccable. Please take this as well!<EOP>
-     Received [Charm Bangle.]
+     Received [Ward Bangle.]
 
 [caption #1876]
 Cid: I'll help.
@@ -8026,7 +8027,7 @@ Those caught up in the battle were transformed into Espers and fought unendingly
 
 [caption #2036]
 <A0>: I can feel their power_
-<A7>: The Warring Triad are the gods of magic.<EOP>
+<A7>: The Warring Triad created magic.<EOP>
 They are also said to be the ones who created Espers.<EOP>
 Legend has it the Espers created idols of the Warring Triad and enshrined them.
 This must be that place.
@@ -8045,7 +8046,7 @@ These idols were created as a invocation to never utilize the sleeping gods' pow
 A warning to future generations that the gods have meddled in earthly affairs.
 
 [caption #2040]
-<A1>: Phew_what a story.<EOP>
+<A1>: I kiiinda get it?<EOP>
 <A0>: If the Espers were attracted here by these idols, they must be around here somewhere!
 
 [caption #2041]
@@ -8055,7 +8056,8 @@ what happened to the Warring Triad after they created the Espers?<EOP>
 They're somewhere beyond the Sealed Gate.
 
 [caption #2042]
-<A0>: I wonder if since the Sealed Gate is the boundary to the Esper World if it's sustained by the Warring Triad's magic.
+<A0>: The Sealed Gate acts as a magical divide between the Esper world and this one.<EOP>
+I wonder if that's due to the Warring Triad's power, too?
 
 [caption #2043]
 <A8>: Are these_Espers?!
@@ -9412,7 +9414,7 @@ That treasure is ours!
 
 [caption #2379]
 
-    On the hum, let's go!!!! <D$04>
+    On the hum, let's go!!!! <D$04><OP$12>
 
 [caption #2380]
 Gerad: You all right?
@@ -9574,7 +9576,7 @@ From the stone_?
          Magicite shard_
 
 [caption #2417]
-           Zantetsuken! <D$04>
+           Zantetsuken! <D$04><OP$12>
 
 [caption #2418]
 400 GP per night.
@@ -9584,9 +9586,9 @@ Wanna rest?
 
 [caption #2419]
 Care to fight in the colosseum?
-<C>(With pleasure.)
-<C>(No thanks.)
-<C>(Explanation, please!)
+<C> (With pleasure.)
+<C> (No thanks.)
+<C> (Explanation, please!)
 
 [caption #2420]
 Creatures from all over the world come here to compete.
@@ -10820,7 +10822,7 @@ Won't you take the stone?!
 
 
        Stay_away_
-<D$06>
+<D$06><OP$12>
 
 [caption #2703]
 
@@ -11322,7 +11324,7 @@ Oh! This one's nice, but which one would look good on <A11>_?<EOP>
 
 [caption #2815]
 <A2>: Taste?
-Do you suggest Sir Gau would eat his hat?
+Do you suggest Sir <A11> would eat his hat?
 [__]
 
 [caption #2816]
@@ -11614,8 +11616,8 @@ I'm stuffed. Completely full!
 I like to eat [Coral]!
 Have any?<EOP>
 Hand over some [Coral]?
-<C>(Sure.)
-<C>(I don't think so.)
+<C> (Sure.)
+<C> (I don't think so.)
 
 [caption #2881]
 
@@ -11831,8 +11833,8 @@ Merchant: Sorry!
 [caption #2937]
 Merchant: Look!
 As luck would have it, I'm fresh out of merchandise!<EOP>
-<C>(I'm gonna pound your face!)
-<C>(Guess I'm out of luck!)
+<C> (I'm gonna pound your face!)
+<C> (Guess I'm out of luck!)
 
 [caption #2938]
 Merchant: Thanks to the Empire, business is all dried up.
@@ -11851,15 +11853,15 @@ Now I can relax and drink my cider.
 
 [caption #2943]
 Need a rest?
-<C>(Yes)
-<C>(No)
+<C> (Yes)
+<C> (No)
 
 [caption #2944]
 Kweh!!
 
 [caption #2945]
-<C>(Ride a chocobo?)
-<C>(Not yet.)
+<C> (Ride a chocobo?)
+<C> (Not yet.)
 
 [caption #2946]
 Recovery spring
@@ -11926,7 +11928,7 @@ Hop aboard?
 
 [caption #2959]
 
-     Monster-in-a-box! <D$04>
+     Monster-in-a-box! <D$04><OP$12>
 
 [caption #2960]
 Use the crane to go down?
@@ -12400,11 +12402,11 @@ lover boy! <E$08><OP$12>
 <A8>: How about a nice portrait for you, hmm?! <E$08><OP$12>
 
 [caption #3083]
-General: If the mission was unsuccessful, the safety of the troops is the highest priority.<EOP>
+Leo: If the mission was unsuccessful, the safety of the troops is the highest priority.<EOP>
 Worry about the Esper later.
 
 [caption #3084]
-Kefka: Oh, General Goody Two-Shoes has something to say.  How quaint.
+Kefka: I don't remember asking General Goody Two-Shoes for his opinion.
 
 [caption #3085]
 Kefka: Those soldiers were just disposable pawns.<D>
@@ -12832,7 +12834,7 @@ No_ I don't think this is magic_
 <A8>: You old guys just don't understand ANYTHING, do you?
 
 [caption #3200]
-<A7>: Cyan, I thank you for not making me feel like the oldest one in the room.
+<A7>: <A2>, I thank you for not making me feel like the oldest one in the room.
 
 [caption #3201]
 <A13>: Ungaah?
@@ -13913,7 +13915,7 @@ Or standing up to Kefka.
 <A6>: But so long as you're not confronting the source of these people's misery, are you really [saving] anyone?
 
 [caption #3485]
-Katarin: I'm sorry, Terra.
+Katarin: I'm sorry, <A0>.
 You finally found one of your friends.<EOP>
 But I feel like we drove her away_<EOP>
 Duane: If only I was more responsible! You're the one who's had to bear all our burdens!
@@ -14314,8 +14316,8 @@ If you give me a [Jewel Ring] relic, I'll let you read about it yourself.
 
 [caption #3590]
 Exchange [Jewel Ring] for [Monster Tome]?
-<C>Yes
-<C>No
+<C> Yes
+<C> No
 
 [caption #3591]
 Thanks! Now I can try to brave the world out there as squishy flesh!
@@ -14332,8 +14334,8 @@ Then I wouldn't need this fishing line anymore.
 
 [caption #3595]
 Exchange [ThunderBlade] for [Fishing Line]?
-<C>Yes
-<C>No
+<C> Yes
+<C> No
 
 [caption #3596]
 All right! Those fish are in for quite a shock!
@@ -14351,8 +14353,8 @@ If you've got something like [Ether] to help me forget my woes, I'll share a gla
 
 [caption #3600]
 Exchange [Ether] for [Wine Glass]?
-<C>Yes
-<C>No
+<C> Yes
+<C> No
 
 [caption #3601]
 Ahh, thanks.
@@ -14370,8 +14372,8 @@ I suppose reading is good for him, but I don't have very many books about monste
 
 [caption #3605]
 Give [Monster Tome]?
-<C>Yes
-<C>No
+<C> Yes
+<C> No
 
 [caption #3606]
 Oh my goodness, thank you!<EOP>
@@ -14391,8 +14393,8 @@ Now all I can do is drink away my sorrows, but I look like a deadbeat chugging s
 
 [caption #3610]
 Give [Wine Glass]?
-<C>Yes
-<C>No
+<C> Yes
+<C> No
 
 [caption #3611]
 With this, at least I can waste away looking more civilized.<EOP>
@@ -14412,8 +14414,8 @@ Now if only I had a fishing line_
 
 [caption #3615]
 Give [Fishing Line]?
-<C>Yes
-<C>No
+<C> Yes
+<C> No
 
 [caption #3616]
 Perfect!
@@ -14431,8 +14433,8 @@ That was too weird. I'd rather just use a Warp Stone like a normal person.
 
 [caption #3619]
 Exchange [Warp Stone] for [mysterious green stone]?
-<C>Yes
-<C>No
+<C> Yes
+<C> No
 
 [caption #3620]
 Thanks! Here, see if it's of any use to you. Later!
@@ -14637,7 +14639,7 @@ Leo: Y_ <D>you're welcome_
 [caption #3673]
 <A0>: It sounds like Duane's been taking good care of you.<EOP>
 And with these extra supplies, you won't have to worry about the baby so much.<EOP>
-Katarin: Thank you, Terra_
+Katarin: Thank you, <A0>_
 I don't know what we would do without you_
 
 [caption #3674]
@@ -14806,7 +14808,7 @@ I don't want to stand by helplessly anymore while people are hurt.
 
 [caption #3716]
 Duane: The fire went out again.<EOP>
-Usually we have Terra re-light it with her magic.<EOP>
+Usually we have <A0> re-light it with her magic.<EOP>
 <A10>: It's good that she's been able to provide for you, but you shouldn't be taking her for granted.
 
 [caption #3717]
