@@ -1,0 +1,19 @@
+**/****	Make Leap miss (create free space)
+
+C2/3B71	80 1D		BRA $3B90	Always miss
+
+**/****	Learn Gau's rages after victory
+
+C2/3B73	AD 0B 30	LDA $300B	Gau's ID
+C2/3B76	30 03		BMI $3B7B	skip if not present
+C2/3B78	20 07 4A	JSR $4A07	learn rages (if available)
+C2/3B7B	AD 0A 30	LDA $300A	Mog's ID (will be used later)
+C2/3B7E	60		RTS
+
+**/****	Disable Leap command
+
+C2/543E	80 F4		BRA $5434	Replace Leap command with Empty
+
+**/****	Hook up: After victory
+
+C2/5EE5	20 73 3B	JSR $3B73	Hook Up: Add rages (if possible)

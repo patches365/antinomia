@@ -1,0 +1,44 @@
+--- SwrdTech gauge speed -------------------------------------------------------
+Increases gauge speed
+
+C1/7D84 AD 82 7B	LDA $7B82	Load Swdtech gauge
+C1/7D87 18		CLC
+C1/7D88 69 02		ADC #$02	Add gauge speed
+C1/7D8A 8D 82 7B	STA $7B82	Save
+C1/7D8D 80 01		BRA $7D90	Optimized NOP
+C1/7D8F EA		NOP
+
+--- SwrdTech Ready Stance Link --------------------------------------------------
+Link with main code
+
+C2/03EF	4C C2 A7	JMP $A7C2	Link
+C2/03F2 EA		NOP
+
+--- SwrdTech Ready Stance -------------------------------------------------------
+Change ready stance time if command is SwordTech
+
+Space:		C2/A7C2 - C2/A7DC
+Size:		#$1A
+
+Check for roulette or special commands which doesn't need time change
+
+C2/A7C2	C9 1E		CMP #$1E	Is it the roulette command?
+C2/A7C4	90 03		BCC $A7C9	Continue if not
+C2/A7C6	4C 1E 04	JMP $041E	It is Roulette. Skip time change. 
+
+Check for Swrdtech command
+
+C2/A7C9	C9 07		CMP #$07	Is it swrdtech command?
+C2/A7CB	F0 03		BEQ $A7D0	Continue if it is.
+C2/A7CD	4C F3 03	JMP $03F3	otherwise load time from command's table
+
+Set Swrdtech time
+
+C2/A7D0	48		PHA		Save (A=Command, B=Command Index) by now
+C2/A7D1	A9 1E		LDA #$1E	Set number for later multiplication. Must not cause 1 Byte overflow.
+C2/A7D3	EB		XBA		Load Command index, ie SwrdTech spell
+C2/A7D4	18		CLC		Do NOT subtract with carry
+C2/A7D5	E9 54		SBC #$54	Subtract SwrdTech first spell plus 1. Makes A between [1,8]
+C2/A7D7	20 81 47	JSR $4781	Multiply low A * high A.
+C2/A7DA	4C FB 03	JMP $03FB	Set charge-up time for character. Only uses low A.
+

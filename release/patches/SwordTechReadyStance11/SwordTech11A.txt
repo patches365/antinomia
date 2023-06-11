@@ -1,0 +1,59 @@
+--- SwrdTech gauge speed -------------------------------------------------------
+
+Increases gauge speed
+
+C1/7D84 AD 82 7B	LDA $7B82	Load Swdtech gauge
+C1/7D87 18		CLC
+C1/7D88 69 02		ADC #$02	Add gauge speed
+C1/7D8A 8D 82 7B	STA $7B82	Save
+C1/7D8D 80 01		BRA $7D90	Optimized NOP
+C1/7D8F EA		NOP
+
+--- SwrdTech Action ------------------------------------------------------------
+
+Trigger spells based on SwordTech level 
+
+C2/1847: BB           TYX
+C2/1848: A5 B6        LDA $B6     (Battle animation)
+C2/184A: 48           PHA 
+C2/184B: 38           SEC 
+C2/184C: E9 55        SBC #$55
+C2/184E: 85 B6        STA $B6     (save unique index of SwdTech.  0 = Dispatch,
+                                   1 = Retort, etc.)
+C2/1850: 68           PLA 
+C2/1851: 20 C1 19     JSR $19C1
+C2/1854: 20 51 29     JSR $2951
+
+C2/1857: A9 04        LDA #$04
+C2/1859: 8D 12 34     STA $3412		Display swdtech name?
+C2/185C: 4C 7B 31     JMP $317B
+
+--- SwrdTech ready stance -------------------------------------------------------
+
+Change ready stance time if command is SwordTech
+
+C2/03EF	4C 5F 18	JMP $185F	Hook up
+C2/03F2 EA		NOP
+
+Check for roulette or special commands which doesn't need time change
+
+C2/185F	C9 1E		CMP #$1E	Is it the roulette command?
+C2/1861 90 03		BCC $1866	Continue if not
+C2/1863 4C 1E 04	JMP $041E	It is Roulette. Skip time change. 
+
+Check for Swrdtech command
+
+C2/1866 C9 07		CMP #$07	Is it swrdtech command?
+C2/1868 F0 03		BEQ $186D	Continue if it is.
+C2/186A 4C F3 03	JMP $03F3	otherwise load time from command's table
+
+Set Swrdtech time
+
+C2/186D 48		PHA		Save (A=Command, B=Command Index) by now
+C2/186E A9 1E		LDA #$1E	Set number for later multiplication. Must not cause 1 Byte overflow.
+C2/1870	EB		XBA		Load Command index, ie SwrdTech spell
+C2/1871 18		CLC		Do NOT subtract with carry
+C2/1872	E9 54		SBC #$54	Subtract SwrdTech first spell plus 1. Makes A between [1,8]
+C2/1874 20 81 47	JSR $4781	Multiply low A * high A.
+C2/1877 4C FB 03	JMP $03FB	Set charge-up time for character. Only uses low A.
+
