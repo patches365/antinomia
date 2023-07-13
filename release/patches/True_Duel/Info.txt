@@ -1,0 +1,14 @@
+ROM data:
+
+	Console:		Super Nintendo Entertainment System (SNES)
+	Official name:		Final Fantasy 3
+	Unofficial name:	Final Fantasy 6
+	Country:		USA
+	Version:		1.0
+	Header:			Yes
+	
+Patch data:
+
+	Name:			True Duel
+	Version:		1.0
+	Author:			HatZen08

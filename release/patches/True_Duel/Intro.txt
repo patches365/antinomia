@@ -1,0 +1,2 @@
+	The Colosseum allows a duel between two opponents. Unfortunately, you can't give commands to your character. It is randomly chosen by the game engine. The algorithm which choose the commands doesn't consider their usefulness.
+	This patch skips the automatic selection of commands for the character. With Umaro's exception, you can freely choose the commands for your character in the Colosseum.

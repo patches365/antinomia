@@ -250,7 +250,7 @@ Bit RAM  Description
 0BD 97:5 Defeated Inferno
 0BE 97:6 Terra and Katarin went missing
 0BF 97:7 Recruited Terra in the World of Ruin
-0C0 98:0 Unused?
+0C0 98:0 Unused? [Got Magic Egg]
 0C1 98:1 Unused?
 0C2 98:2 Memorized "DLRO"
 0C3 98:3 Memorized "ERAU"
